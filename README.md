@@ -1,6 +1,6 @@
 # ✫ About Me:
 
-I am Jaimish Satani, a Full Stack Developer specializing in MERN stack and AI/ML applications. Passionate about building scalable and efficient solutions, I have experience developing SaaS applications and AI-powered systems.
+I am Jaimish Satani, a Full Stack Developer specializing in MERN stack and AI/ML applications. Passionate about building scalable and efficient solutions, I have experience developing an AI-powered systems.
 
 ## 🌐 Socials:
 
